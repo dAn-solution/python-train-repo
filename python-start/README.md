@@ -1,6 +1,6 @@
 # python-start
 
-### udemy[米国データサイエンティストがやさしく教えるデータサイエンスのためのPython講座
+### udemy [米国データサイエンティストがやさしく教えるデータサイエンスのためのPython講座
 ](https://www.udemy.com/course/ds_for_python/)
 
 - Pythonの基礎
