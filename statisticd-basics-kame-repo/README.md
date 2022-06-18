@@ -1,4 +1,4 @@
-# 統計学入門講座【Pythonで実践】（かめさん講座）
+## [統計学入門講座【Pythonで実践】（かめさん講座）](https://www.udemy.com/course/python-stats/)
 
 - Statistics_001.jpynb セクション３
 - Statistics_002,jpynb セクション４
